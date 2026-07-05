@@ -1,9 +1,32 @@
+venv/
+__pycache__/
+chroma_db/
+models/
+Test_files/
+*.pyc
+.env# Virtual Environment
+venv/
+
 # Python cache
 __pycache__/
 *.pyc
 
-# Virtual environment
-venv/
+# Environment variables
+.env
 
-# Test files 
+# Vector Database
+chroma_db/
+
+# Downloaded models
+models/
+
+# Personal backup folder
 Test_files/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
