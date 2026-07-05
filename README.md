@@ -171,8 +171,7 @@ http://127.0.0.1:8000/docs
 ## Start the Streamlit Frontend
 
 ```bash
-streamlit run frontend.py
-```
+streamlit run frontend/frontend.py```
 
 ---
 
